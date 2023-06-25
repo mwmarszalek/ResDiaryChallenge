@@ -1,0 +1,15 @@
+/Users/michal/Desktop/ResDiary/resdiaryCodingChallenge/bin/Debug/net7.0/resdiaryCodingChallenge
+/Users/michal/Desktop/ResDiary/resdiaryCodingChallenge/bin/Debug/net7.0/resdiaryCodingChallenge.deps.json
+/Users/michal/Desktop/ResDiary/resdiaryCodingChallenge/bin/Debug/net7.0/resdiaryCodingChallenge.runtimeconfig.json
+/Users/michal/Desktop/ResDiary/resdiaryCodingChallenge/bin/Debug/net7.0/resdiaryCodingChallenge.dll
+/Users/michal/Desktop/ResDiary/resdiaryCodingChallenge/bin/Debug/net7.0/resdiaryCodingChallenge.pdb
+/Users/michal/Desktop/ResDiary/resdiaryCodingChallenge/obj/Debug/net7.0/resdiaryCodingChallenge.csproj.AssemblyReference.cache
+/Users/michal/Desktop/ResDiary/resdiaryCodingChallenge/obj/Debug/net7.0/resdiaryCodingChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michal/Desktop/ResDiary/resdiaryCodingChallenge/obj/Debug/net7.0/resdiaryCodingChallenge.AssemblyInfoInputs.cache
+/Users/michal/Desktop/ResDiary/resdiaryCodingChallenge/obj/Debug/net7.0/resdiaryCodingChallenge.AssemblyInfo.cs
+/Users/michal/Desktop/ResDiary/resdiaryCodingChallenge/obj/Debug/net7.0/resdiaryCodingChallenge.csproj.CoreCompileInputs.cache
+/Users/michal/Desktop/ResDiary/resdiaryCodingChallenge/obj/Debug/net7.0/resdiaryCodingChallenge.dll
+/Users/michal/Desktop/ResDiary/resdiaryCodingChallenge/obj/Debug/net7.0/refint/resdiaryCodingChallenge.dll
+/Users/michal/Desktop/ResDiary/resdiaryCodingChallenge/obj/Debug/net7.0/resdiaryCodingChallenge.pdb
+/Users/michal/Desktop/ResDiary/resdiaryCodingChallenge/obj/Debug/net7.0/resdiaryCodingChallenge.genruntimeconfig.cache
+/Users/michal/Desktop/ResDiary/resdiaryCodingChallenge/obj/Debug/net7.0/ref/resdiaryCodingChallenge.dll

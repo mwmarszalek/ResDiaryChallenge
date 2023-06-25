@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "resdiaryCodingChallenge/1.0.0": {
+        "runtime": {
+          "resdiaryCodingChallenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "resdiaryCodingChallenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
