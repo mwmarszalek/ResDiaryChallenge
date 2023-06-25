@@ -13,9 +13,26 @@ To run this console application, please ensure that you have the following prere
 Follow these steps to run the console application:
 
 1. Open your command-line interface or terminal.
-2. Navigate to the directory where the code files are located.
-3. Build the code by executing the following command:
+2. Clone the repository to your local machine
+3. Navigate to the directory where the code files are located.
+4. Build the code by executing the following command:
 
 ```
-dotnet run
+dotnet build
 ```
+4. Once the build process is complete, run the application using the following command:
+
+ ```
+   dotnet run
+   ```
+6. The application will execute and display the output in the console.
+
+## Usage
+
+The core functionality of the application is implemented in the `GroupArrayElements` method. You can modify the input array `arr` and specify the number of subarrays `N` in the `Main` method to test different scenarios.
+
+The `GroupArrayElements` method divides the input array into N subarrays of equal size. If the size of the array is not evenly divisible by N, the last subarray will contain the remaining elements.
+
+The resulting subarrays are stored in a list of lists (`List<List<int>>`), where each inner list represents a subarray.
+
+The provided sample usage in the `Main` method demonstrates how to use the `GroupArrayElements` method. It creates a sample input array, defines the number of subarrays, and calls the method to obtain the result. The result is then displayed in the console.
