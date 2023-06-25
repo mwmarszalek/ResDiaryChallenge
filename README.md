@@ -1,6 +1,7 @@
-# Group Array Elements Console Application
+# ResDiary Coding Challenge 
+# Grouping Array Elements 
 
-This is a console application written in C# that allows you to divide an input array into multiple equally sized subarrays. The code provides a method called `GroupArrayElements`, which takes an input array and the desired number of subarrays, and returns a list of subarrays.
+This is .Net console application written in C# that allows you to divide an input array into multiple equally sized subarrays. The code provides a method called `GroupArrayElements`, which takes an input array and the desired number of subarrays, and returns a list of subarrays.
 
 ## Installation
 
